@@ -5,7 +5,7 @@
 🔍 I specialize in creating data-driven applications using tools like **PyTorch, TensorFlow, Scikit-Learn, and Flask**, with a strong foundation in **DSA, OOPs, and core CS fundamentals**.
 
 📫 **Email:** Rahulsaini11204@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/rahul1232
+🔗 **LinkedIn:** [https://linkedin.com/rahul1232](https://www.linkedin.com/in/rahul1232/)
 🐙 **GitHub:** https://github.com/rahul7697762
 
 ---
