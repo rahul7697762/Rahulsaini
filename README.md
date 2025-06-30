@@ -62,7 +62,7 @@
 
 **Bachelor of Technology – Computer Science & Engineering**  
 📍 Lovely Professional University, Punjab  
-📊 CGPA: 7.3 | Since August 2023
+📊 CGPA: 7.6 | Since August 2023
 
 ---
 
