@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Saini
 
-🚀 A Machine Learning enthusiast and CSE undergrad at **Lovely Professional University** with a passion for building impactful AI solutions.
+🚀 A Machine Learning enthusiast and CSE undergraduate at **Lovely Professional University** with a passion for building impactful AI solutions.
 
 🔍 I specialize in creating data-driven applications using tools like **PyTorch, TensorFlow, Scikit-Learn, and Flask**, with a strong foundation in **DSA, OOPs, and core CS fundamentals**.
 
