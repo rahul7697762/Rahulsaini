@@ -6,7 +6,7 @@
 
 📫 **Email:** Rahulsaini11204@gmail.com  
 🔗 **LinkedIn:** https://linkedin.com/rahul1232
-🐙 **GitHub:** [rahul7697762](https://github.com/rahul7697762)
+🐙 **GitHub:** https://github.com/rahul7697762
 
 ---
 
